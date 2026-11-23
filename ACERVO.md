@@ -8,7 +8,7 @@ A publicação foi reunida na [PR #1](https://github.com/prdanielcunha/fervotram
 | Cinco temporadas com 23 episódios e 230 clipes | [Temporadas](temporadas/) |
 | Retratos de Lara e Vó Noêmia, referências por temporada e instruções de produção | [Biblioteca visual](biblioteca-visual/) |
 | Quadros do primeiro episódio de O Caderno da Vó Noêmia e variações | [Imagens C01 a C08](imagens/FervoTrama/) |
-| PNGs e JPEGs de referência e materiais de O Vizinho do 12 | [Originais](originais/FervoTrama/) |
+| PNGs e JPEGs de referência do FervoTrama | [Originais](originais/FervoTrama/) |
 | Guia anterior, análise editorial e pacotes ZIP | [Acervo de desenvolvimento](acervo/) |
 
 Para produzir as cinco histórias, consulte os arquivos `Temporada_Completa.md`. O pacote `FervoTrama_Cinco_Temporadas.zip` reúne essas mesmas versões. `FervoTrama_Roteiros_Finais.zip` preserva o pacote de episódios anterior.
