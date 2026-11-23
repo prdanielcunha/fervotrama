@@ -16,6 +16,8 @@ Temporada completa · 2 episódios · 8 clipes de 10 segundos por episódio · 8
 
 ## Duração e edição
 
+Imagens de referência e quadros de abertura em PNG 4K vertical, 2160 × 3840.
+
 Monte cada episódio com 80 s brutos e mire um corte final de **65 a 72 s**. Isso dá margem para retirar cerca de 8 a 15 s por episódio. Os intervalos nos prompts orientam a geração. Dê prioridade ao gesto que carrega a pista, à fala e à reação que muda a cena. Confira a duração do exportado antes de publicar. Se o primeiro corte ficar abaixo de 65 s, recupere tempo em uma reação importante ou em uma inserção das fotos ou do caderno que ajude a entender a história.
 
 # Episódio 01 — A carteira do fundo
@@ -25,7 +27,7 @@ Monte cada episódio com 80 s brutos e mire um corte final de **65 a 72 s**. Iss
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Use o quadro de abertura aprovado. Irene, de camisa bege, estende a foto no balcão de madeira. Joana, de jardineira jeans, está do outro lado. O retrato de Elisa está na carteira vazia ao fundo da foto impressa. Só um antebraço de manga cinza entra pela borda direita da foto para sustentar o retrato. Sem legendas.
+Vertical 9:16, 4K (2160×3840). Drama brasileiro realista, luz natural do local e pele com textura natural. Use o quadro de abertura aprovado. Irene, de camisa bege, estende a foto no balcão de madeira. Joana, de jardineira jeans, está do outro lado. O retrato de Elisa está na carteira vazia ao fundo da foto impressa. Só um antebraço de manga cinza entra pela borda direita da foto para sustentar o retrato. Sem legendas.
 ```
 
 **Vídeo**
@@ -39,7 +41,7 @@ Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pel
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Mesmo balcão, mesma luz e figurino do clipe anterior. Joana baixa a lupa e começa a tirar do envelope a primeira fotografia. Ao lado está a segunda, já mostrada por Irene. Ambas retratam a mesma turma e a mesma carteira do fundo. Sem legendas.
+Vertical 9:16, 4K (2160×3840). Drama brasileiro realista, luz natural do local e pele com textura natural. Mesmo balcão, mesma luz e figurino do clipe anterior. Joana baixa a lupa e começa a tirar do envelope a primeira fotografia. Ao lado está a segunda, já mostrada por Irene. Ambas retratam a mesma turma e a mesma carteira do fundo. Sem legendas.
 ```
 
 **Vídeo**
@@ -53,7 +55,7 @@ Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pel
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Noite. Portão azul da escola, visto da calçada. Irene espera de pé, com o envelope nas mãos. Elisa desce do ônibus que acabou de parar à frente da escola, com casaco vinho e mochila. Sem legendas.
+Vertical 9:16, 4K (2160×3840). Drama brasileiro realista, luz natural do local e pele com textura natural. Noite. Portão azul da escola, visto da calçada. Irene espera de pé, com o envelope nas mãos. Elisa desce do ônibus que acabou de parar à frente da escola, com casaco vinho e mochila. Sem legendas.
 ```
 
 **Vídeo**
@@ -67,7 +69,7 @@ Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pel
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. As duas acabaram de entrar no portão. O banco e a porta da sala aparecem mais adiante no mesmo corredor azul. O envelope continua com Irene. Sem legendas.
+Vertical 9:16, 4K (2160×3840). Drama brasileiro realista, luz natural do local e pele com textura natural. As duas acabaram de entrar no portão. O banco e a porta da sala aparecem mais adiante no mesmo corredor azul. O envelope continua com Irene. Sem legendas.
 ```
 
 **Vídeo**
@@ -81,7 +83,7 @@ Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pel
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Elisa e Irene param ao lado do banco. Elisa segura o caderno aberto na folha do trabalho. Irene olha a página por cima do ombro da filha. Sem legendas.
+Vertical 9:16, 4K (2160×3840). Drama brasileiro realista, luz natural do local e pele com textura natural. Elisa e Irene param ao lado do banco. Elisa segura o caderno aberto na folha do trabalho. Irene olha a página por cima do ombro da filha. Sem legendas.
 ```
 
 **Vídeo**
@@ -95,7 +97,7 @@ Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pel
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Mesmo banco. Elisa larga a mochila no assento. Irene abre o envelope, mantendo a segunda foto em parte visível. Sem legendas.
+Vertical 9:16, 4K (2160×3840). Drama brasileiro realista, luz natural do local e pele com textura natural. Mesmo banco. Elisa larga a mochila no assento. Irene abre o envelope, mantendo a segunda foto em parte visível. Sem legendas.
 ```
 
 **Vídeo**
@@ -109,7 +111,7 @@ Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pel
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Na porta da sala, a aula ainda está em andamento. Irene está com a mão na porta entreaberta. Elisa segura o caderno contra o peito. Sem legendas.
+Vertical 9:16, 4K (2160×3840). Drama brasileiro realista, luz natural do local e pele com textura natural. Na porta da sala, a aula ainda está em andamento. Irene está com a mão na porta entreaberta. Elisa segura o caderno contra o peito. Sem legendas.
 ```
 
 **Vídeo**
@@ -123,7 +125,7 @@ Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pel
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Elisa para na soleira. Irene está ao lado do banco, com a filha ainda no seu campo de visão. Enquadramento próximo das duas. Sem legendas.
+Vertical 9:16, 4K (2160×3840). Drama brasileiro realista, luz natural do local e pele com textura natural. Elisa para na soleira. Irene está ao lado do banco, com a filha ainda no seu campo de visão. Enquadramento próximo das duas. Sem legendas.
 ```
 
 **Vídeo**
@@ -139,7 +141,7 @@ Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pel
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Abertura na sala verde, no mesmo intervalo. A professora adulta está ao lado de uma carteira, olhando Elisa. Elisa acaba de entrar com o caderno aberto na folha do trabalho. Sem legendas.
+Vertical 9:16, 4K (2160×3840). Drama brasileiro realista, luz natural do local e pele com textura natural. Abertura na sala verde, no mesmo intervalo. A professora adulta está ao lado de uma carteira, olhando Elisa. Elisa acaba de entrar com o caderno aberto na folha do trabalho. Sem legendas.
 ```
 
 **Vídeo**
@@ -153,7 +155,7 @@ Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pel
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Mesma sala. A professora põe a folha limpa ao lado da anterior. Elisa está sentada, com lápis perto da mão. A porta para o corredor permanece aberta. Sem legendas.
+Vertical 9:16, 4K (2160×3840). Drama brasileiro realista, luz natural do local e pele com textura natural. Mesma sala. A professora põe a folha limpa ao lado da anterior. Elisa está sentada, com lápis perto da mão. A porta para o corredor permanece aberta. Sem legendas.
 ```
 
 **Vídeo**
@@ -167,7 +169,7 @@ Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pel
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Irene está sozinha, sentada no mesmo banco do corredor, com o celular em mãos. A luz da sala aberta aparece ao fundo. Sem legendas.
+Vertical 9:16, 4K (2160×3840). Drama brasileiro realista, luz natural do local e pele com textura natural. Irene está sozinha, sentada no mesmo banco do corredor, com o celular em mãos. A luz da sala aberta aparece ao fundo. Sem legendas.
 ```
 
 **Vídeo**
@@ -181,7 +183,7 @@ Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pel
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Elisa sai da sala com a folha nova. Irene, ainda no banco, abaixa o celular quando percebe a filha chegando. Sem legendas.
+Vertical 9:16, 4K (2160×3840). Drama brasileiro realista, luz natural do local e pele com textura natural. Elisa sai da sala com a folha nova. Irene, ainda no banco, abaixa o celular quando percebe a filha chegando. Sem legendas.
 ```
 
 **Vídeo**
@@ -195,7 +197,7 @@ Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pel
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. As duas sentadas no mesmo banco. A folha está entre elas. Irene olha para o celular antes de olhar para a filha. Sem legendas.
+Vertical 9:16, 4K (2160×3840). Drama brasileiro realista, luz natural do local e pele com textura natural. As duas sentadas no mesmo banco. A folha está entre elas. Irene olha para o celular antes de olhar para a filha. Sem legendas.
 ```
 
 **Vídeo**
@@ -209,7 +211,7 @@ Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pel
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Plano próximo das duas. Irene segura a folha, e Elisa acompanha com o dedo. Use escrita juvenil natural e insira o texto legível na edição se necessário. Sem legendas.
+Vertical 9:16, 4K (2160×3840). Drama brasileiro realista, luz natural do local e pele com textura natural. Plano próximo das duas. Irene segura a folha, e Elisa acompanha com o dedo. Use escrita juvenil natural e insira o texto legível na edição se necessário. Sem legendas.
 ```
 
 **Vídeo**
@@ -223,7 +225,7 @@ Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pel
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Domingo, carro parado diante da igreja. Irene no banco do passageiro, Elisa ao volante. O caderno está no colo de Elisa. Luz natural. Sem legendas.
+Vertical 9:16, 4K (2160×3840). Drama brasileiro realista, luz natural do local e pele com textura natural. Domingo, carro parado diante da igreja. Irene no banco do passageiro, Elisa ao volante. O caderno está no colo de Elisa. Luz natural. Sem legendas.
 ```
 
 **Vídeo**
@@ -237,7 +239,7 @@ Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pel
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Mesmo carro, mesma posição. Irene segura a maçaneta do passageiro. Elisa tem o caderno no colo. A porta da igreja está aberta ao fundo. Sem legendas.
+Vertical 9:16, 4K (2160×3840). Drama brasileiro realista, luz natural do local e pele com textura natural. Mesmo carro, mesma posição. Irene segura a maçaneta do passageiro. Elisa tem o caderno no colo. A porta da igreja está aberta ao fundo. Sem legendas.
 ```
 
 **Vídeo**
