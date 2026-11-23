@@ -54,8 +54,6 @@ O retrato segurado por um colega seria percebido de perto pela fotógrafa e por 
 
 ## As duas referências do projeto
 
-**O Vizinho do 12.** O pão repartido, a marcenaria e as marcas nas mãos permitem que a revelação reorganize cenas que já vimos. O risco é o público cristão identificar Tiago cedo. Depois da pista das mãos, criar expectativa pela escolha de Marta mesmo para quem já entendeu quem ele é. O apartamento vazio traz a pergunta; o acolhimento ao longo da série é o que faz a resposta importar. Evitaria reproduzir uma figura misteriosa que desaparece no fim em todas as novelas.
-
 **O Caderno da Vó Noêmia.** A oração de 1998 e a chegada de Aderbal estabelecem a fé desde o começo. A temporada atende a uma proposta própria. Eu manteria a primeira oração de Lara e o pai que corre ao encontro do filho. Cuidaria do ritmo entre os capítulos para que cada resposta de oração tenha consequências diferentes. O episódio sobre o silêncio de Deus é particularmente importante para que o espectador não passe a tratar o caderno como objeto que produz resultados.
 
 ## As ideias iniciais também passaram pelo mesmo crivo
