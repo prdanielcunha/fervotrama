@@ -1,6 +1,6 @@
 # A Foto dos Ausentes
 
-Temporada completa · 2 episódios · 10 clipes por episódio · 100 segundos brutos por episódio.
+Temporada completa · 2 episódios · 8 clipes de 10 segundos por episódio · 80 segundos brutos por episódio.
 
 ## Ordem dos episódios
 
@@ -9,290 +9,239 @@ Temporada completa · 2 episódios · 10 clipes por episódio · 100 segundos br
 
 ## Referências para gerar uma vez
 
-Elisa, 22, cachos castanhos e casaco vinho; Irene, 52, camisa bege e cabelo preso; Joana, 36, fotógrafa, jardineira jeans. Turma adulta de escola noturna, corredor azul e carteiras verdes. Fotos da turma são inserções fixas preparadas na edição.
+- **Elisa**, 22 anos, cachos castanhos e casaco vinho. **Irene**, 52 anos, mãe de Elisa, camisa bege e cabelo preso. **Joana**, 36 anos, fotógrafa de jardineira jeans.
+- **Locações.** Balcão de madeira de Joana, escola noturna com corredor e portão azuis, sala com carteiras verdes e carro estacionado diante da igreja. Os colegas da foto são figurantes adultos de idades variadas. A professora tem fala no episódio 2.
+- **Duas fotografias da mesma turma.** Fixe colegas, roupas, cenário, ângulo e posição da carteira vazia ao fundo. Na primeira, a carteira está vazia. Na segunda, o pequeno retrato impresso de Elisa está apoiado sobre a carteira. Só a mão e parte de um antebraço de manga cinza entram pela borda direita da foto. A identidade de quem o segura fica em aberto. Reuse as mesmas fotografias em todas as inserções.
+- **Continuidade.** Mantenha rostos, roupas, posições e luz entre clipes da mesma cena. Anexe o quadro anterior quando a ação continuar. Acrescente na edição qualquer escrita que precise ser legível.
 
-Anexe os retratos dos personagens presentes e a referência do local. Cada clipe tem dois blocos independentes para copiar. Gere o primeiro quadro e use-o como referência do vídeo. Se houver texto, fotografia de arquivo ou som recorrente, aplique o mesmo material na edição. O tempo indicado serve de guia; a fala pode começar junto com o primeiro gesto.
+## Duração e edição
+
+Monte cada episódio com 80 s brutos e mire um corte final de **65 a 72 s**. Isso dá margem para retirar cerca de 8 a 15 s por episódio. Os intervalos nos prompts orientam a geração. Dê prioridade ao gesto que carrega a pista, à fala e à reação que muda a cena. Confira a duração do exportado antes de publicar. Se o primeiro corte ficar abaixo de 65 s, recupere tempo em uma reação importante ou em uma inserção das fotos ou do caderno que ajude a entender a história.
 
 # Episódio 01 — A carteira do fundo
 
-## E01 C01 · 0–10 s
+## E01 C01 · 0–10 s · De quem é essa mão?
 
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz motivada pelo local, pele natural. Irene estende a foto da turma sobre o balcão de Joana. Usar somente personagens e cenário deste enquadramento conforme referências anexas. Capturar o instante antes da ação, sem legendas.
+Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Use o quadro de abertura aprovado. Irene, de camisa bege, estende a foto no balcão de madeira. Joana, de jardineira jeans, está do outro lado. O retrato de Elisa está na carteira vazia ao fundo da foto impressa. Só um antebraço de manga cinza entra pela borda direita da foto para sustentar o retrato. Sem legendas.
 ```
 
 **Vídeo**
 
 ```text
-10 s, 9:16, continuar da imagem fornecida. 0–2 s: Irene estende a foto da turma sobre o balcão de Joana. 2–8 s: “Minha filha disse que tava sentada aqui. Então de quem é essa mão segurando o rosto dela?” 8–10 s: O polegar aparece na borda do retrato. Falas em português brasileiro; só o falante em quadro articula. Vozes de telefone e de arquivo vêm do aparelho. Preservar rostos, figurino e objetos. Som ambiente, sem legendas.
+10 s, 9:16, partir da imagem fornecida. 0–1 s: a foto desliza sobre a madeira. 1–8 s: Irene fala, sem tirar o olhar da foto: “Minha filha disse que tava sentada aqui. Então de quem é essa mão segurando o rosto dela?” 8–10 s: aproximação curta da mão na borda do retrato. Mantenha imóveis os rostos e corpos dentro da foto impressa. Português brasileiro. Só quem fala em quadro mexe a boca. Vozes de celular vêm do aparelho. Preserve rostos, roupas e objetos. Som ambiente, sem legendas.
 ```
 
-## E01 C02 · 10–20 s
+## E01 C02 · 10–20 s · As duas fotos
 
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz motivada pelo local, pele natural. Joana afasta a lupa. Usar somente personagens e cenário deste enquadramento conforme referências anexas. Capturar o instante antes da ação, sem legendas.
+Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Mesmo balcão, mesma luz e figurino do clipe anterior. Joana baixa a lupa e começa a tirar do envelope a primeira fotografia. Ao lado está a segunda, já mostrada por Irene. Ambas retratam a mesma turma e a mesma carteira do fundo. Sem legendas.
 ```
 
 **Vídeo**
 
 ```text
-10 s, 9:16, continuar da imagem fornecida. 0–2 s: Joana afasta a lupa. 2–8 s: “Ela chegou depois da foto. Pediu uma segunda, com o retrato no lugar dela. A turma topou.” 8–10 s: Mostra a primeira versão. Falas em português brasileiro; só o falante em quadro articula. Vozes de telefone e de arquivo vêm do aparelho. Preservar rostos, figurino e objetos. Som ambiente, sem legendas.
+10 s, 9:16, partir da imagem fornecida. 0–7 s: Joana desliza a primeira foto para junto da segunda: “Ela chegou depois da foto. Pediu outra, com o retrato no lugar dela. A turma topou.” 7–10 s: Irene vê a carteira vazia na primeira e reage: “Ela me mandou só a segunda.” Fotos fixas na edição. Português brasileiro. Só quem fala em quadro mexe a boca. Vozes de celular vêm do aparelho. Preserve rostos, roupas e objetos. Som ambiente, sem legendas.
 ```
 
-## E01 C03 · 20–30 s
+## E01 C03 · 20–30 s · No portão
 
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz motivada pelo local, pele natural. Irene aproxima as duas. Usar somente personagens e cenário deste enquadramento conforme referências anexas. Capturar o instante antes da ação, sem legendas.
+Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Noite. Portão azul da escola, visto da calçada. Irene espera de pé, com o envelope nas mãos. Elisa desce do ônibus que acabou de parar à frente da escola, com casaco vinho e mochila. Sem legendas.
 ```
 
 **Vídeo**
 
 ```text
-10 s, 9:16, continuar da imagem fornecida. 0–2 s: Irene aproxima as duas. 2–8 s: “Ela me mandou só a segunda.” Joana abre o envelope: “Achei que era brincadeira entre vocês.” 8–10 s: Irene guarda as duas para conversar. Falas em português brasileiro; só o falante em quadro articula. Vozes de telefone e de arquivo vêm do aparelho. Preservar rostos, figurino e objetos. Som ambiente, sem legendas.
+10 s, 9:16, partir da imagem fornecida. 0–3 s: Elisa desce do ônibus, vê Irene e se aproxima sorrindo. 3–7 s: Irene ergue o envelope: “Me mostra sua carteira?” 7–10 s: o sorriso de Elisa se desfaz. Ela aperta a alça da mochila e olha para a porta. Português brasileiro. Só quem fala em quadro mexe a boca. Vozes de celular vêm do aparelho. Preserve rostos, roupas e objetos. Som ambiente, sem legendas.
 ```
 
-## E01 C04 · 30–40 s
+## E01 C04 · 30–40 s · Dois dias no corredor
 
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz motivada pelo local, pele natural. Elisa à saída do ônibus noturno. Usar somente personagens e cenário deste enquadramento conforme referências anexas. Capturar o instante antes da ação, sem legendas.
+Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. As duas acabaram de entrar no portão. O banco e a porta da sala aparecem mais adiante no mesmo corredor azul. O envelope continua com Irene. Sem legendas.
 ```
 
 **Vídeo**
 
 ```text
-10 s, 9:16, continuar da imagem fornecida. 0–2 s: Elisa à saída do ônibus noturno. 2–8 s: A mãe a espera no portão. “Me mostra sua carteira?” Elisa sorri até ver o envelope. 8–10 s: Aperta a alça da bolsa. Falas em português brasileiro; só o falante em quadro articula. Vozes de telefone e de arquivo vêm do aparelho. Preservar rostos, figurino e objetos. Som ambiente, sem legendas.
+10 s, 9:16, partir da imagem fornecida. 0–7 s: andando devagar, Elisa aponta para o corredor: “Segunda eu entrei. Terça e quarta fiquei aqui fora. Hoje eu vim tentar de novo.” 7–10 s: Irene olha para o banco: “Você passou duas noites aqui?” Português brasileiro. Só quem fala em quadro mexe a boca. Vozes de celular vêm do aparelho. Preserve rostos, roupas e objetos. Som ambiente, sem legendas.
 ```
 
-## E01 C05 · 40–50 s
+## E01 C05 · 40–50 s · A folha copiada
 
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz motivada pelo local, pele natural. Elisa no portão azul. Usar somente personagens e cenário deste enquadramento conforme referências anexas. Capturar o instante antes da ação, sem legendas.
+Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Elisa e Irene param ao lado do banco. Elisa segura o caderno aberto na folha do trabalho. Irene olha a página por cima do ombro da filha. Sem legendas.
 ```
 
 **Vídeo**
 
 ```text
-10 s, 9:16, continuar da imagem fornecida. 0–2 s: Elisa no portão azul. 2–8 s: “Segunda eu entrei. Terça e quarta fiquei no corredor. Hoje eu vim tentar de novo.” Irene olha o pátio. 8–10 s: “Você passou duas noites sentada aqui?” Falas em português brasileiro; só o falante em quadro articula. Vozes de telefone e de arquivo vêm do aparelho. Preservar rostos, figurino e objetos. Som ambiente, sem legendas.
+10 s, 9:16, partir da imagem fornecida. 0–3 s: Irene reconhece a caligrafia: “Mas a letra é sua.” 3–8 s: Elisa responde: “As palavras não. Eu copiei. Tive medo de ela perceber que eu mal consigo ler em voz alta.” 8–10 s: Elisa fecha o caderno, evitando a mãe. Português brasileiro. Só quem fala em quadro mexe a boca. Vozes de celular vêm do aparelho. Preserve rostos, roupas e objetos. Som ambiente, sem legendas.
 ```
 
-## E01 C06 · 50–60 s
+## E01 C06 · 50–60 s · A foto na geladeira
 
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz motivada pelo local, pele natural. Elisa perto de um banco no corredor. Usar somente personagens e cenário deste enquadramento conforme referências anexas. Capturar o instante antes da ação, sem legendas.
+Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Mesmo banco. Elisa larga a mochila no assento. Irene abre o envelope, mantendo a segunda foto em parte visível. Sem legendas.
 ```
 
 **Vídeo**
 
 ```text
-10 s, 9:16, continuar da imagem fornecida. 0–2 s: Elisa perto de um banco no corredor. 2–8 s: “Na primeira eu entrei. A professora pediu pra ler o que eu entreguei.” 8–10 s: Abre no caderno a folha copiada. Falas em português brasileiro; só o falante em quadro articula. Vozes de telefone e de arquivo vêm do aparelho. Preservar rostos, figurino e objetos. Som ambiente, sem legendas.
+10 s, 9:16, partir da imagem fornecida. 0–7 s: Elisa fala olhando a foto: “Você ficou tão feliz que até pôs na geladeira. Depois disso ficou mais difícil te contar.” 7–10 s: Irene baixa a foto e encara a filha, deixando a reação respirar. Português brasileiro. Só quem fala em quadro mexe a boca. Vozes de celular vêm do aparelho. Preserve rostos, roupas e objetos. Som ambiente, sem legendas.
 ```
 
-## E01 C07 · 60–70 s
+## E01 C07 · 60–70 s · Até hoje
 
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz motivada pelo local, pele natural. Irene examina a letra da filha. Usar somente personagens e cenário deste enquadramento conforme referências anexas. Capturar o instante antes da ação, sem legendas.
+Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Na porta da sala, a aula ainda está em andamento. Irene está com a mão na porta entreaberta. Elisa segura o caderno contra o peito. Sem legendas.
 ```
 
 **Vídeo**
 
 ```text
-10 s, 9:16, continuar da imagem fornecida. 0–2 s: Irene examina a letra da filha. 2–8 s: “Mas a letra é sua.” Elisa: “As palavras não. Tive medo de ela perceber que eu mal consigo ler em voz alta.” 8–10 s: Fecha o caderno depressa. Falas em português brasileiro; só o falante em quadro articula. Vozes de telefone e de arquivo vêm do aparelho. Preservar rostos, figurino e objetos. Som ambiente, sem legendas.
+10 s, 9:16, partir da imagem fornecida. 0–4 s: Irene pergunta baixo: “Dá pra acertar a matrícula?” 4–8 s: Elisa olha pela fresta: “A professora pediu pra conversar comigo até hoje.” 8–10 s: ouve-se a movimentação do intervalo. Elisa dá meio passo para a soleira. Português brasileiro. Só quem fala em quadro mexe a boca. Vozes de celular vêm do aparelho. Preserve rostos, roupas e objetos. Som ambiente, sem legendas.
 ```
 
-## E01 C08 · 70–80 s
+## E01 C08 · 70–80 s · Pode demorar
 
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz motivada pelo local, pele natural. Elisa encosta a mochila no banco. Usar somente personagens e cenário deste enquadramento conforme referências anexas. Capturar o instante antes da ação, sem legendas.
+Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Elisa para na soleira. Irene está ao lado do banco, com a filha ainda no seu campo de visão. Enquadramento próximo das duas. Sem legendas.
 ```
 
 **Vídeo**
 
 ```text
-10 s, 9:16, continuar da imagem fornecida. 0–2 s: Elisa encosta a mochila no banco. 2–8 s: “Você tava tão feliz com a foto que até pôs na geladeira. Depois disso ficou mais difícil te contar.” 8–10 s: Irene tira a segunda cópia da bolsa. Falas em português brasileiro; só o falante em quadro articula. Vozes de telefone e de arquivo vêm do aparelho. Preservar rostos, figurino e objetos. Som ambiente, sem legendas.
-```
-
-## E01 C09 · 80–90 s
-
-**Imagem inicial**
-
-```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz motivada pelo local, pele natural. Irene abre a porta só o bastante para ouvir a aula. Usar somente personagens e cenário deste enquadramento conforme referências anexas. Capturar o instante antes da ação, sem legendas.
-```
-
-**Vídeo**
-
-```text
-10 s, 9:16, continuar da imagem fornecida. 0–2 s: Irene abre a porta só o bastante para ouvir a aula. 2–8 s: “Dá pra acertar a matrícula?” Elisa: “A professora pediu pra conversar comigo até hoje.” 8–10 s: Ouve-se o começo do intervalo. Falas em português brasileiro; só o falante em quadro articula. Vozes de telefone e de arquivo vêm do aparelho. Preservar rostos, figurino e objetos. Som ambiente, sem legendas.
-```
-
-## E01 C10 · 90–100 s
-
-**Imagem inicial**
-
-```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz motivada pelo local, pele natural. Elisa na soleira, caderno apertado. Usar somente personagens e cenário deste enquadramento conforme referências anexas. Capturar o instante antes da ação, sem legendas.
-```
-
-**Vídeo**
-
-```text
-10 s, 9:16, continuar da imagem fornecida. 0–2 s: Elisa na soleira, caderno apertado. 2–8 s: “Se eu disser que copiei, você vai ficar com vergonha de mim?” Irene senta no banco. 8–10 s: “Vou ficar aqui. Pode demorar.” Falas em português brasileiro; só o falante em quadro articula. Vozes de telefone e de arquivo vêm do aparelho. Preservar rostos, figurino e objetos. Som ambiente, sem legendas.
+10 s, 9:16, partir da imagem fornecida. 0–5 s: Elisa pergunta: “Se eu disser que copiei, você vai ficar com vergonha de mim?” 5–8 s: Irene se senta no banco e responde: “Vou ficar aqui. Pode demorar.” 8–10 s: Elisa respira antes de entrar. Termine na reação dela. Português brasileiro. Só quem fala em quadro mexe a boca. Vozes de celular vêm do aparelho. Preserve rostos, roupas e objetos. Som ambiente, sem legendas.
 ```
 
 # Episódio 02 — Até acabar a aula
 
-## E02 C01 · 0–10 s
+## E02 C01 · 0–10 s · Eu copiei
 
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz motivada pelo local, pele natural. Elisa entra, professora adulta junto da carteira. Usar somente personagens e cenário deste enquadramento conforme referências anexas. Capturar o instante antes da ação, sem legendas.
+Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Abertura na sala verde, no mesmo intervalo. A professora adulta está ao lado de uma carteira, olhando Elisa. Elisa acaba de entrar com o caderno aberto na folha do trabalho. Sem legendas.
 ```
 
 **Vídeo**
 
 ```text
-10 s, 9:16, continuar da imagem fornecida. 0–2 s: Elisa entra, professora adulta junto da carteira. 2–8 s: “O trabalho fui eu que escrevi no papel. Mas eu copiei tudo.” 8–10 s: Entrega a folha sem dobrar. Falas em português brasileiro; só o falante em quadro articula. Vozes de telefone e de arquivo vêm do aparelho. Preservar rostos, figurino e objetos. Som ambiente, sem legendas.
+10 s, 9:16, partir da imagem fornecida. 0–2 s: Elisa põe a folha sobre a carteira. 2–7 s: fala olhando para a professora: “O trabalho fui eu que escrevi no papel. Mas eu copiei tudo.” 7–10 s: a professora acolhe o olhar dela e pega uma folha limpa. Português brasileiro. Só quem fala em quadro mexe a boca. Vozes de celular vêm do aparelho. Preserve rostos, roupas e objetos. Som ambiente, sem legendas.
 ```
 
-## E02 C02 · 10–20 s
+## E02 C02 · 10–20 s · As palavras dela
 
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz motivada pelo local, pele natural. Professora pousa uma folha limpa. Usar somente personagens e cenário deste enquadramento conforme referências anexas. Capturar o instante antes da ação, sem legendas.
+Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Mesma sala. A professora põe a folha limpa ao lado da anterior. Elisa está sentada, com lápis perto da mão. A porta para o corredor permanece aberta. Sem legendas.
 ```
 
 **Vídeo**
 
 ```text
-10 s, 9:16, continuar da imagem fornecida. 0–2 s: Professora pousa uma folha limpa. 2–8 s: “Qual era a primeira coisa que você queria escrever?” Elisa: “Que eu voltei a estudar porque queria conseguir ler pra minha mãe.” 8–10 s: Pega o lápis. Falas em português brasileiro; só o falante em quadro articula. Vozes de telefone e de arquivo vêm do aparelho. Preservar rostos, figurino e objetos. Som ambiente, sem legendas.
+10 s, 9:16, partir da imagem fornecida. 0–4 s: a professora pergunta: “Qual era a primeira coisa que você queria escrever?” 4–8 s: Elisa responde: “Que eu voltei a estudar porque queria conseguir ler pra minha mãe.” 8–10 s: pega o lápis e começa a escrever. Português brasileiro. Só quem fala em quadro mexe a boca. Vozes de celular vêm do aparelho. Preserve rostos, roupas e objetos. Som ambiente, sem legendas.
 ```
 
-## E02 C03 · 20–30 s
+## E02 C03 · 20–30 s · Alguém guardou lugar
 
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz motivada pelo local, pele natural. Elisa olha para o corredor. Usar somente personagens e cenário deste enquadramento conforme referências anexas. Capturar o instante antes da ação, sem legendas.
+Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Irene está sozinha, sentada no mesmo banco do corredor, com o celular em mãos. A luz da sala aberta aparece ao fundo. Sem legendas.
 ```
 
 **Vídeo**
 
 ```text
-10 s, 9:16, continuar da imagem fornecida. 0–2 s: Elisa olha para o corredor. 2–8 s: “Ela acha que quem precisa de companhia sou eu.” A professora deixa a porta aberta. 8–10 s: O lápis começa a correr no papel. Falas em português brasileiro; só o falante em quadro articula. Vozes de telefone e de arquivo vêm do aparelho. Preservar rostos, figurino e objetos. Som ambiente, sem legendas.
+10 s, 9:16, partir da imagem fornecida. 0–4 s: chega um áudio de uma amiga, vindo do telefone: “Faz tempo que guardo lugar pra você no culto.” 4–7 s: Irene aperta para gravar: “Um dia eu vou.” 7–10 s: hesita e apaga antes de enviar. Use gesto e som da interface, sem texto gerado. Português brasileiro. Só quem fala em quadro mexe a boca. Vozes de celular vêm do aparelho. Preserve rostos, roupas e objetos. Som ambiente, sem legendas.
 ```
 
-## E02 C04 · 30–40 s
+## E02 C04 · 30–40 s · Você ficou mesmo
 
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz motivada pelo local, pele natural. Irene no banco do corredor. Usar somente personagens e cenário deste enquadramento conforme referências anexas. Capturar o instante antes da ação, sem legendas.
+Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Elisa sai da sala com a folha nova. Irene, ainda no banco, abaixa o celular quando percebe a filha chegando. Sem legendas.
 ```
 
 **Vídeo**
 
 ```text
-10 s, 9:16, continuar da imagem fornecida. 0–2 s: Irene no banco do corredor. 2–8 s: Recebe mensagem de voz de uma amiga: “Faz tempo que guardo lugar pra você no culto.” 8–10 s: Grava “Um dia eu vou”, apaga antes de enviar. Falas em português brasileiro; só o falante em quadro articula. Vozes de telefone e de arquivo vêm do aparelho. Preservar rostos, figurino e objetos. Som ambiente, sem legendas.
+10 s, 9:16, partir da imagem fornecida. 0–3 s: Elisa, aliviada: “Mãe, você ficou mesmo.” 3–6 s: Irene sorri: “Você entrou mesmo.” 6–10 s: Elisa se senta ao lado dela e põe a folha à vista das duas. Português brasileiro. Só quem fala em quadro mexe a boca. Vozes de celular vêm do aparelho. Preserve rostos, roupas e objetos. Som ambiente, sem legendas.
 ```
 
-## E02 C05 · 40–50 s
+## E02 C05 · 40–50 s · A vergonha da Irene
 
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz motivada pelo local, pele natural. Elisa sai com a folha nova. Usar somente personagens e cenário deste enquadramento conforme referências anexas. Capturar o instante antes da ação, sem legendas.
+Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. As duas sentadas no mesmo banco. A folha está entre elas. Irene olha para o celular antes de olhar para a filha. Sem legendas.
 ```
 
 **Vídeo**
 
 ```text
-10 s, 9:16, continuar da imagem fornecida. 0–2 s: Elisa sai com a folha nova. 2–8 s: “Mãe, você ficou mesmo.” Irene guarda o celular. “Você entrou mesmo.” 8–10 s: Elisa se senta para mostrar a folha. Falas em português brasileiro; só o falante em quadro articula. Vozes de telefone e de arquivo vêm do aparelho. Preservar rostos, figurino e objetos. Som ambiente, sem legendas.
+10 s, 9:16, partir da imagem fornecida. 0–7 s: Irene fala com dificuldade: “Quando teu pai morreu eu briguei com Deus. Tive vergonha de voltar e fingir que tava tudo bem.” 7–10 s: Elisa põe a folha no colo da mãe e aponta a primeira linha com o dedo. Português brasileiro. Só quem fala em quadro mexe a boca. Vozes de celular vêm do aparelho. Preserve rostos, roupas e objetos. Som ambiente, sem legendas.
 ```
 
-## E02 C06 · 50–60 s
+## E02 C06 · 50–60 s · Minha mãe sabe esperar
 
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz motivada pelo local, pele natural. Irene no banco vazio com a filha. Usar somente personagens e cenário deste enquadramento conforme referências anexas. Capturar o instante antes da ação, sem legendas.
+Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Plano próximo das duas. Irene segura a folha, e Elisa acompanha com o dedo. Use escrita juvenil natural e insira o texto legível na edição se necessário. Sem legendas.
 ```
 
 **Vídeo**
 
 ```text
-10 s, 9:16, continuar da imagem fornecida. 0–2 s: Irene no banco vazio com a filha. 2–8 s: “Quando teu pai morreu eu briguei com Deus. Tive vergonha de voltar e fingir que tava tudo bem.” 8–10 s: Elisa põe a folha no colo da mãe. Falas em português brasileiro; só o falante em quadro articula. Vozes de telefone e de arquivo vêm do aparelho. Preservar rostos, figurino e objetos. Som ambiente, sem legendas.
+10 s, 9:16, partir da imagem fornecida. 0–4 s: Elisa lê devagar: “Minha mãe sabe esperar por mim.” 4–8 s: levanta o olhar: “Dá pra conversar com Jesus assim mesmo?” 8–10 s: Irene responde baixinho: “Dá.” Leia a primeira frase com uma pausa curta e natural. Português brasileiro. Só quem fala em quadro mexe a boca. Vozes de celular vêm do aparelho. Preserve rostos, roupas e objetos. Som ambiente, sem legendas.
 ```
 
-## E02 C07 · 60–70 s
+## E02 C07 · 60–70 s · Obrigada por me ouvir
 
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz motivada pelo local, pele natural. Elisa lê devagar o que escreveu. Usar somente personagens e cenário deste enquadramento conforme referências anexas. Capturar o instante antes da ação, sem legendas.
+Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Domingo, carro parado diante da igreja. Irene no banco do passageiro, Elisa ao volante. O caderno está no colo de Elisa. Luz natural. Sem legendas.
 ```
 
 **Vídeo**
 
 ```text
-10 s, 9:16, continuar da imagem fornecida. 0–2 s: Elisa lê devagar o que escreveu. 2–8 s: “Minha mãe sabe esperar por mim.” Para, recomeça a palavra difícil. “Será que Jesus também pode esperar por ela?” 8–10 s: Irene acaricia a folha. Falas em português brasileiro; só o falante em quadro articula. Vozes de telefone e de arquivo vêm do aparelho. Preservar rostos, figurino e objetos. Som ambiente, sem legendas.
+10 s, 9:16, partir da imagem fornecida. 0–8 s: Irene ora olhando para as próprias mãos: “Jesus, ainda sinto falta dele. Obrigada por me ouvir até quando eu estava brava. Quero voltar.” 8–10 s: Irene solta o cinto. Elisa vira para ela. Português brasileiro. Só quem fala em quadro mexe a boca. Vozes de celular vêm do aparelho. Preserve rostos, roupas e objetos. Som ambiente, sem legendas.
 ```
 
-## E02 C08 · 70–80 s
+## E02 C08 · 70–80 s · Hoje eu espero você
 
 **Imagem inicial**
 
 ```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz motivada pelo local, pele natural. Irene diante do portão naquela noite. Usar somente personagens e cenário deste enquadramento conforme referências anexas. Capturar o instante antes da ação, sem legendas.
+Vertical 9:16, 1080×1920. Drama brasileiro realista, luz natural do local e pele com textura natural. Mesmo carro, mesma posição. Irene segura a maçaneta do passageiro. Elisa tem o caderno no colo. A porta da igreja está aberta ao fundo. Sem legendas.
 ```
 
 **Vídeo**
 
 ```text
-10 s, 9:16, continuar da imagem fornecida. 0–2 s: Irene diante do portão naquela noite. 2–8 s: “Eu cantava que Jesus morreu e ressuscitou por mim. Desde o enterro eu não consigo cantar.” Elisa: “Dá pra conversar com Ele assim mesmo?” 8–10 s: Irene diz “Dá.” Falas em português brasileiro; só o falante em quadro articula. Vozes de telefone e de arquivo vêm do aparelho. Preservar rostos, figurino e objetos. Som ambiente, sem legendas.
-```
-
-## E02 C09 · 80–90 s
-
-**Imagem inicial**
-
-```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz motivada pelo local, pele natural. Domingo, carro parado diante da igreja. Usar somente personagens e cenário deste enquadramento conforme referências anexas. Capturar o instante antes da ação, sem legendas.
-```
-
-**Vídeo**
-
-```text
-10 s, 9:16, continuar da imagem fornecida. 0–2 s: Domingo, carro parado diante da igreja. 2–8 s: Irene ora baixinho: “Jesus, ainda sinto falta dele. Obrigada por me ouvir até quando eu estava brava. Quero voltar.” 8–10 s: Solta o cinto. Falas em português brasileiro; só o falante em quadro articula. Vozes de telefone e de arquivo vêm do aparelho. Preservar rostos, figurino e objetos. Som ambiente, sem legendas.
-```
-
-## E02 C10 · 90–100 s
-
-**Imagem inicial**
-
-```text
-Vertical 9:16, 1080×1920. Drama brasileiro realista, luz motivada pelo local, pele natural. Elisa desliga o motor. Usar somente personagens e cenário deste enquadramento conforme referências anexas. Capturar o instante antes da ação, sem legendas.
-```
-
-**Vídeo**
-
-```text
-10 s, 9:16, continuar da imagem fornecida. 0–2 s: Elisa desliga o motor. 2–8 s: “Vai, mãe. Hoje eu espero você.” Irene entra no som do canto já começado. Elisa abre o caderno. 8–10 s: Soletra baixinho uma frase inteira enquanto espera. Falas em português brasileiro; só o falante em quadro articula. Vozes de telefone e de arquivo vêm do aparelho. Preservar rostos, figurino e objetos. Som ambiente, sem legendas.
+10 s, 9:16, partir da imagem fornecida. 0–3 s: Elisa diz: “Vai, mãe. Hoje eu espero você.” 3–7 s: corte pela janela para Irene entrando na igreja; ouve-se o culto ao longe. 7–10 s: de volta a Elisa no carro, ela abre o caderno e soletra baixinho uma frase inteira. Feche nessa ação. Português brasileiro. Só quem fala em quadro mexe a boca. Vozes de celular vêm do aparelho. Preserve rostos, roupas e objetos. Som ambiente, sem legendas.
 ```
