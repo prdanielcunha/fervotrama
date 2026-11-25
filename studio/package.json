@@ -1,0 +1,1 @@
+{"name":"fervotrama-studio","private":true,"type":"module","scripts":{"build":"node build.mjs","test":"node --check src/server.js && node --check src/client.js"}}
